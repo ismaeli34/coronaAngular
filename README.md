@@ -5,8 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Installation
 
 git clone https://github.com/ismaeli34/coronaAngular
+
 cd coronaAngular
+
 npm install
+
 ng serve and go to http://localhost:4200/
 
 ## Development server
