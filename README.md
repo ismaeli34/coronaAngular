@@ -20,6 +20,14 @@ ng serve and go to http://localhost:4200/
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Tech Stack
+1. Angular
+2. Angular Google Charts
+3. Html
+4. Bootstrap 4
+
+
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
