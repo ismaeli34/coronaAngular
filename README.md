@@ -23,8 +23,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Tech Stack
 1. Angular
 2. Angular Google Charts
-3. Html
-4. Bootstrap 4
+3. Bootstrap 4
 
 
 
