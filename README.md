@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
+![](src/assets/covid-19-pic2.png)
+
 ![](src/assets/covid-19-pic1.png)
 
 # Installation
